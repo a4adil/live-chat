@@ -1,2 +1,2 @@
 # live-chat
-NodeJS live change with Socket IO.
+NodeJS live chat with Socket IO.
