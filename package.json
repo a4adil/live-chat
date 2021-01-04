@@ -1,0 +1,29 @@
+{
+  "name": "live-chat",
+  "version": "1.0.0",
+  "description": "Live chat module with nodeJS and socket IO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a4adil/live-chat.git"
+  },
+  "keywords": [
+    "Socket",
+    "io",
+    "NodeJS",
+    "Expressjs"
+  ],
+  "author": "Adil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a4adil/live-chat/issues"
+  },
+  "homepage": "https://github.com/a4adil/live-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
+}
